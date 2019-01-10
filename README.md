@@ -1,5 +1,5 @@
 # offlix 
-Netflix like app for your offline movies.
+Netflix like app for your offline movies. Created with Kivy and Python.
 
 # Versio V0.001
 -Shows a menu where you can move with arrowkeys
